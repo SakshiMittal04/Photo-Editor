@@ -4,3 +4,5 @@ PhotoEditorWeb is a powerful and innovative web application for editing photos u
 <b>Introduction</b>
 
 PhotoEditorWeb is a web-based photo editing tool that leverages the power of 3D arrays to offer an extensive set of editing options. Unlike traditional photo editors, which operate on 2D pixel arrays, our application takes advantage of the third dimension to introduce innovative effects and transformations.
+
+![Alt text](https://github.com/SakshiMittal04/Photo-Editor/blob/main/photo%20editor%20image.png)
